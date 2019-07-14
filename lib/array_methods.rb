@@ -1,5 +1,8 @@
 def find_element_index(scale, value_to_find)
   counter = 0 
+  for i in 2..5
+    puts i 
+  end
   while counter <= scale.length do 
      counter += 1 
    end
