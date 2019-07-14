@@ -1,6 +1,6 @@
 def find_element_index(array, value_to_find)
   counter = 0 
-  while counter < .include? do
+  while counter < scale.include?() do
       counter += 1
   end
   value_to_find
