@@ -1,8 +1,8 @@
 def find_element_index(array, value_to_find)
   counter = 0 
   scale = [2,3,4,5]
-  while counter << scale.include?() do
-      counter += 1
+  while counter << scale.include?(counter += 1)
+      
   end
   value_to_find
 end
