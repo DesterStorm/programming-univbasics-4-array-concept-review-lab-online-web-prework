@@ -1,4 +1,4 @@
-def find_element_index(array, value_to_find)
+def find_element_index(scale, value_to_find)
   counter = 0 
   scale = [2,3,4,5]
   while value_to_find = counter << scale[0]
