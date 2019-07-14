@@ -4,7 +4,7 @@ def find_element_index(array, value_to_find)
   while counter << scale.include?() 
      counter += 1
   end
-  value_to_find.to_i
+  value_to_find.to_i 
 end
 
 def find_max_value(array)
