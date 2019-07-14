@@ -2,7 +2,7 @@ def find_element_index(array, value_to_find)
   counter = 0 
   scale = [2,3,4,5]
   while counter << scale.in?() 
-    do counter += 1
+     counter += 1
   end
   value_to_find.to_i
 end
