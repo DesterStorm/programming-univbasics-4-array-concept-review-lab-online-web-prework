@@ -1,6 +1,6 @@
 def find_element_index(scale, value_to_find)
   counter = 0 
-  while counter <= scale.include?[] do 
+  while counter <= scale.length do 
      counter += 1 
    end
  value_to_find = counter
