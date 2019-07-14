@@ -3,6 +3,10 @@ def find_element_index(scale, value_to_find)
   for i in 2..5
     puts i 
   end
+  while counter <= scale[0] do 
+    puts counter
+     counter += 1 
+   end
  value_to_find = counter
  value_to_find
 end
